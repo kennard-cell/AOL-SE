@@ -1,0 +1,12 @@
+Deskripsi:
+Projek AOL kami yaitu web jual beli barang bekas.
+
+Dalam era digital saat ini, konsumsi barang semakin meningkat, yang berujung
+pada peningkatan limbah dan barang tidak terpakai. Banyak orang memiliki barang
+yang masih layak digunakan tetapi tidak lagi dibutuhkan. Di sisi lain, ada banyak
+orang yang mencari barang dengan harga lebih terjangkau. Sayangnya, proses jual-beli
+barang bekas sering kali tidak efisien, baik karena kurangnya platform yang aman, sulitnya 
+menemukan pembeli, atau terbatasnya informasi tentang kondisi barang.
+Dengan meningkatnya kesadaran masyarakat terhadap ekonomi sirkular dan keberlanjutan, muncul
+kebutuhan akan platform yang dapat menghubungkan penjual dan pembeli barang bekas secara mudah,
+aman, dan terpercaya.
